@@ -2,3 +2,28 @@ body{
     background-color: rgb(255,255,153);
 }
 
+.green{
+    background-color: yellow;
+    color: green;
+} 
+.blue{
+    background-color: yellow;
+    color: blue;
+}
+
+ h5{
+    color: red;    
+} 
+
+ p{
+     text-align: center;
+ } 
+ 
+ul{
+    color:rgb(51, 255, 206);
+    
+}
+
+ol{
+    color: purple;
+} 
